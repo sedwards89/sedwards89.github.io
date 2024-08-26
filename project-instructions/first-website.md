@@ -4,8 +4,10 @@ We're gonna go live on GitHub with your very own website!
 
 **Table of Contents**
 
+
 - [First Website](#first-website)
-  - [Prerequisites](#prerequisites)
+
+$$  - [Prerequisites](#prerequisites)
   - [Overview](#overview)
     - [Specs](#specs)
     - [Take Away](#take-away)
